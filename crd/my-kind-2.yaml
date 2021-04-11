@@ -1,0 +1,6 @@
+apiVersion: "ofedorova.com/v1"
+kind: AppConfig
+metadata:
+  name: demo-appconfig-2
+spec:
+  test: "test"

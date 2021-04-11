@@ -1,0 +1,8 @@
+apiVersion: "ofedorova.com/v1"
+kind: AppConfig
+metadata:
+  name: demo-appconfig-1
+spec:
+  uri: "some uri"
+  Command: "some command"
+  image: my-image
